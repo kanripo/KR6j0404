@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:47.406434
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:04
 #+TITLE: 文殊師利菩薩六字呪功能法經
 #+PROPERTY: CBETA_ID T20n1179
 #+PROPERTY: ID KR6j0404
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1179
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0404_T_000-0778b>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0404_T_001-0778b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1179¶
-
- 文殊師利菩薩六字呪功能法經¶
+No. 1179¶
+文殊師利菩薩六字呪功能法經¶
 ¶
 
 南無一切利益尊者文殊師利童子菩薩摩訶¶
